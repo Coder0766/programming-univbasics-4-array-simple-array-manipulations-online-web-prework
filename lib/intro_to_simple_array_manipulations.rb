@@ -171,8 +171,6 @@ end
 
 def using_insert(array, element)
     array.insert([4])
-    element = "String"
-    @another_language = "Python"
 end
 
 
